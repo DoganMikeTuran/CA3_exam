@@ -20,8 +20,8 @@ derby.log
 # DATABASE
 persistence.xml
 # Local development Database
-pu.properties
+# pu.properties
 # Local test database
-pu_integration_test.properties
+# pu_integration_test.properties
 
 /nbproject/
